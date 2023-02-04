@@ -2,7 +2,8 @@
 Mobile-API for [Crime Mobile](http://www.crime-mobile.ru) online CRMP server based on GTA San Andreas
 
 ##  Example
-```shell
+```bash
 source crime_mobile.sh
+
 get_api_info
 ```
