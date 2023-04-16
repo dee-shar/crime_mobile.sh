@@ -3,7 +3,6 @@ Mobile-API for [Crime Mobile](http://www.crime-mobile.ru) an popular multiplayer
 
 ##  Example
 ```bash
-source crime_mobile.sh
-
+source ./crime_mobile.sh
 get_api_info
 ```
